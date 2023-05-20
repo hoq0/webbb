@@ -10,7 +10,7 @@
 }
 
 .block1 {
-    justify-content:right;
+    justify-content:center;
     display: flex;
     flex-wrap: wrap;
     width:100%;
@@ -125,6 +125,7 @@
 }
 
 .block2_right{
+    justify-content:center;
     width:30%;
     background-color: rgb(40, 55, 60);
 }
@@ -308,9 +309,8 @@
         margin-bottom: 20pt;
     }
     .block1_right{
-        width: 70%;
-        height: 300px;;
-        margin-left: 60px;
+        width: 60%;
+        height: 350px;;
         margin-bottom: 20pt;
     }
     .textup{
@@ -351,13 +351,16 @@
         font-size: 14px;
     }
     .block2_im{
-        height: 300px;
+	width: 60%
+        height: 250px;
     }
     .block2_im2{
-        height: 200px;
+	width: 60%
+        height: 250px;
     }
     .block2_im3{
-        height: 210px;
+	width: 60%
+        height: 260px;
     }
     .block3_min{
         font-size: 12px;
